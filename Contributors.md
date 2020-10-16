@@ -10,7 +10,6 @@
 - W Chan
 - [rorondre](https://github.com/rorondre)
 - Sanuda
-- [Namita](https://github.com/namita2310)
 - N Maiya
 - Pranjal bisht
 - [KobeGit24](https://github.com/KobeGit24)
